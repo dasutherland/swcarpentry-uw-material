@@ -1,3 +1,16 @@
 Notes from Git sessions:
 
-- 
+git init
+git status 
+git add -A
+git commit -m "Message"
+
+git log
+git log --oneline 
+
+git remote add <name>
+git checkout 
+
+git pull <remote> <local>
+git push <remote> <local>
+ 
